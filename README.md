@@ -11,4 +11,5 @@ Got cool dance ideas? Join the party by submitting pull requests!
 
 📜 License
 This project grooves under the MIT License.
+
 URL: https://hopeinbytes.github.io/lasermanrahoul/
