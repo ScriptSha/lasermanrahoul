@@ -13,6 +13,6 @@ Got cool dance ideas? Join the party by submitting pull requests!
 📜 License
 This project grooves under the MIT License.
 
-URL: https://hopeinbytes.github.io/lasermanrahoul/
+URL: https://scriptsha.github.io/lasermanrahoul/
 ![Landing page](https://github.com/user-attachments/assets/9d58a5bf-e534-4816-a7ee-9cd80264374b)
 ![Uploading Landing page.png…]()
